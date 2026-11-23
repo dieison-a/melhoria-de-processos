@@ -1,17 +1,19 @@
-# Process Quality Studio
+# Estúdio de qualidade de processos
 
-Protótipo visual para mapear um fluxo fictício de atendimento e comparar o processo atual com uma proposta de melhoria.
+Protótipo visual para mapear um fluxo fictício de atendimento e comparar a situação atual com uma proposta de melhoria.
 
-## Funcionalidades
+## Área e semestres relacionados
 
-- Alternância entre fluxo atual e fluxo proposto.
-- Etapas com responsáveis, entradas e pontos de controle.
-- Indicadores demonstrativos para apoiar uma conversa de melhoria.
+Área: processos e qualidade. Conteúdos relacionados: Gestão Organizacional, Gestão por Processos, Gestão Estratégica, Qualidade de Software e Gerência de Projetos. Os materiais disponíveis não identificam os semestres específicos dessas disciplinas.
 
-## Conteúdos relacionados
+## Resumo acessível
 
-Gestão Organizacional, Processos de Desenvolvimento de Sistemas, Gestão por Processos, Qualidade de Software, Gestão Estratégica e Gerência de Projetos.
+A página apresenta etapas sequenciais, seus responsáveis e dois pontos de análise. O seletor alterna entre o processo atual e uma proposta; a informação atualizada também é anunciada por tecnologia assistiva.
 
-## Executar
+## Executar localmente
 
-Abra `index.html` em um navegador. O exemplo é didático; não representa processos de um empregador.
+Abra `index.html` em um navegador atualizado. Não é necessário servidor, instalação ou conexão com a internet.
+
+## Limitações e transparência
+
+Fluxos e indicadores são exemplos simulados, não representam processos de organização real. Projeto desenvolvido com assistência de inteligência artificial e revisão humana; não descreve experiência real, resultados empresariais nem código sem assistência de IA.
