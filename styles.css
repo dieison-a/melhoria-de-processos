@@ -2,9 +2,9 @@
   font-family:sans-serif;
   color:#242337;
   background:#f7f6fb;
-  --roxo:#6e57d7;
+  --roxo:#5a45be;
   --tinta:#242337;
-  --suave:#858397;
+  --suave:#555464;
   --linha:#e5e3ee;
   --verde:#d7f0d7
 }
@@ -45,11 +45,11 @@ header {
   letter-spacing:.11em
 }
 .marca small {
-  color:#9a96aa;
+  color:#555464;
   margin-left:5px
 }
 .area-trabalho {
-  color:#aaa7b7
+  color:#555464
 }
 main {
   max-width:1120px;
@@ -84,7 +84,7 @@ h1 {
   background:white;
   padding:10px 12px;
   border-radius:20px;
-  color:#8a8798;
+  color:#555464;
   font:500 8px Consolas,monospace;
   letter-spacing:.1em
 }
@@ -115,7 +115,7 @@ h1 {
   border-radius:6px;
   padding:9px 16px;
   font:600 11px sans-serif;
-  color:#868397;
+  color:#555464;
   cursor:pointer
 }
 .versao.ativo {
@@ -128,7 +128,7 @@ h1 {
   outline-offset:2px
 }
 .controle>span {
-  color:#9290a1;
+  color:#555464;
   font-size:8px
 }
 .fluxo {
@@ -157,7 +157,7 @@ h1 {
   border-top:1px solid #bcb7d3
 }
 .indice-etapa {
-  color:#9e98b5;
+  color:#555464;
   font-size:8px
 }
 .etapa-fluxo h2 {
@@ -167,7 +167,7 @@ h1 {
 .etapa-fluxo p {
   font-size:11px;
   line-height:1.6;
-  color:#858397;
+  color:var(--suave);
   margin:0
 }
 .responsavel {
@@ -185,7 +185,7 @@ h1 {
 }
 .etapa-fluxo.melhorado .responsavel {
   background:#e9f5e5;
-  color:#56804b
+  color:#3e6237
 }
 .grade-inferior {
   display:grid;
@@ -207,7 +207,7 @@ h1 {
   color:var(--roxo)
 }
 .nota.verde .numero {
-  color:#538a4a
+  color:#38652f
 }
 .nota h2 {
   font:600 15px Arial,sans-serif;
@@ -216,11 +216,11 @@ h1 {
 .nota p {
   font-size:12px;
   line-height:1.65;
-  color:#69677a;
+  color:#555464;
   margin:0
 }
 footer {
-  color:#a09eae;
+  color:#555464;
   font-size:8px;
   border-top:1px solid var(--linha);
   margin-top:55px;
